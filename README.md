@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Priyanshu87571">GitHub</a> •
-  <a href="https://www.linkedin.com/in/priyanshu-raj-162763306/">LinkedIn</a> •
+  priyanshu-raj-portfolio-woad.vercel.app
 </p>
 
 ---
