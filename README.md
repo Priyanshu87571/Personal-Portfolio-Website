@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/Priyanshu87571">GitHub</a> •
   <a href="https://www.linkedin.com/in/priyanshu-raj-162763306/">LinkedIn</a> •
-  <a href="http://localhost:5173">Local Demo</a>
 </p>
 
 ---
