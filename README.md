@@ -1,4 +1,4 @@
-# Priyanshu Raj — Personal Portfolio (No Docker)
+# Priyanshu Raj — Personal Portfolio
 
 A responsive portfolio built with React + Vite + TypeScript, Python FastAPI, and SQLAlchemy. Your supplied portrait is included locally at `frontend/public/priyanshu-raj.png`. Docker files have been removed.
 
