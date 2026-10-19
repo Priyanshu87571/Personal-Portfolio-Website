@@ -4,9 +4,11 @@
   <strong>A modern, full-stack developer portfolio built to showcase projects, technical skills, achievements, and professional experience.</strong>
 </p>
 
-<p align="center">
-  priyanshu-raj-portfolio-woad.vercel.app
-</p>
+ <p align="center">
+  <a href="https://priyanshu-raj-portfolio-woad.vercel.app/" target="_blank">
+    <strong>🌐 Visit My Live Portfolio</strong>
+  </a>
+</p> 
 
 ---
 
